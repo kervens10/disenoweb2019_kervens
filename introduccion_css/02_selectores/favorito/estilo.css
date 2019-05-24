@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+
+body{
+    background: #D9D9D9;
+    background-blend-mode: color:blue;
+    font-family: Arial;
+}
+ h1,h2,h3 {
+     color: blueviolet;
+ }
+
+ p {
+     color: blue;
+ }
+
+  a{
+      color: black;
+  }
+
+  #biografia{
+      background: #A8C545;
+  }
+
+#carrera{
+    background: rgb(220, 219, 231);
+}
+#premio {
+    background: rgb(171, 99, 99);
+}
+
+}
+
+p {
+    color: lightblue;
+}
+
+p {
+    color: rgb(134, 62, 62);
+    font-size: 20px;
+}
+
+cascada: 
+Css es una hoja de estilo en cascada,ya que aplica la ultima declaracion definida
+a un selector
+
+/*Este es un comentario que quiere decir.
+ que yo soy un programador
+Este codigo no se ejecuta por el navegador
+ */
