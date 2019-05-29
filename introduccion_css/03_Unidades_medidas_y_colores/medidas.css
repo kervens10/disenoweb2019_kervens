@@ -32,3 +32,29 @@
     height: 100%;
 }
 
+
+
+
+
+
+
+.color_5x5 {
+    width: 5px;
+    height: 5px;
+     background: silver;
+}
+.color_50x50 {
+    width: 5px;
+    height: 5px;
+    background: rgba(51, 9, 0.5);
+}
+.color_100x100 {
+    width: 5px;
+    height: 5px;
+    background: rgba(192, 192, 0.5);
+}
+.color_200x200 {
+    width: 5px;
+    height: 5px;
+    background: rgba(72, 51, 0.5);
+}
