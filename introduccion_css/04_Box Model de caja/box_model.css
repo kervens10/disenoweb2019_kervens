@@ -16,8 +16,8 @@ body{
 
 nav{
     background:  #3F85Df;
-    width: 400px;
-    height: 100vh;
+    width: 100vw;
+    height: 80px;
    border: solid 1px #707070;
 }
 nav h1,nav a{
@@ -37,7 +37,8 @@ nav ul li {
        padding-left: 30px;
       padding-right: 30px;
 
-      background: solid 1px #707070;
+      background: solid 1px #707070;display: inline-block;
+    
 }
       nav h1 {
           padding-top: 30px;
@@ -48,4 +49,33 @@ nav ul li {
            font-weight: normal;
       }
 
+      nav li.active{
+         background: rgba(0,0,0,0.5);
+      }
 
+      nav h1{
+          display:none;
+           
+      }
+   
+      div{
+          display:inline;
+      }
+      img{
+        width: 800px;
+
+      }
+
+
+      h1  {
+          font-weight:normal;
+          height:60px;
+      }
+   
+       p {
+           font-weight: normal;
+           height: 30px;
+       }
+     p span {
+        padding-right: 10px;
+    }
