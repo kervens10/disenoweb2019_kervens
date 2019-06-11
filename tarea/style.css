@@ -1,0 +1,14 @@
+/* reset*/
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+section#principal {
+    background-color: blue;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial;
+}
