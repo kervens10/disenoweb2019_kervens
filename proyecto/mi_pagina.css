@@ -2,39 +2,64 @@
     margin: 5px;
     padding: 5px;
 }
- header,div,nav{
-     border-color:blueviolet;
-     font-family: Arial;
-   text-align: center;
-margin-right: 1px;
-padding-right: 1px;
-font-size: 25px;
-    
- }
 
- nav {
-     display: flex;
-     justify-content: space-between;
-     margin: 2px;
-     padding: 2px;
-     
- }
- p{
-     font-size: 25px;
- }
+header,
+div,
+nav {
+    border-color: blueviolet;
+    font-family: Arial;
+    text-align: center;
+    margin-right: 1px;
+    padding-right: 1px;
+    font-size: 25px;
+}
 
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+    padding: 2px;
+}
 
+p {
+    font-size: 25px;
+}
 
- div{
-      margin: 0px;
-      padding: 0px;
- }
+div {
+    margin: 0px;
+    padding: 0px;
+}
 
- .facebook{
-     font-size: 30px;
- }
-
- 
- .instagram{
+.facebook {
+    color: tomato;
     font-size: 30px;
 }
+
+.instagram {
+    color: red;
+    font-size: 30px;
+}
+
+.linkedin {
+    color: rgb(33, 105, 114);
+    font-size: 30px;
+}
+
+section {
+    display: flex;
+}
+
+.red_social {
+    width: 300px;
+}
+
+.copy {
+    text-align: center;
+}
+
+.contact {
+    background-color: silver;
+    align-content: center;
+}
+
+.ava {}

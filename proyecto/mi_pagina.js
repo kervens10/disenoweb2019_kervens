@@ -1,4 +1,4 @@
-alert("Welcome This page give us Technology knowledge and sell product !");
+/*alert("Welcome This page give us Technology knowledge and sell product !");
 (alert);
 
 alert("To have acces to this websites we will need some infos in your hand!");
@@ -18,3 +18,4 @@ document.write(`<h1> ${FirstName}</h1>`);
 document.write(`<h2><i> ${LastName}</i></h2>`);
 document.write(`<h1> ${Age}</h1>`);
 document.write(`<h1> ${Like}</h1>`);
+*/
