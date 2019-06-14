@@ -8,10 +8,10 @@ div,
 nav {
     border-color: blueviolet;
     font-family: Arial;
-    text-align: center;
     margin-right: 1px;
     padding-right: 1px;
     font-size: 25px;
+    
 }
 
 nav {
@@ -58,8 +58,59 @@ section {
 }
 
 .contact {
-    background-color: silver;
+    background-color: aliceblue;
     align-content: center;
 }
 
 .ava {}
+
+
+.ave {
+ background-color: antiquewhite;
+}
+
+.avu{
+  display: flex;
+  justify-content: space-between;
+  margin: 3px;
+  padding: 2px;
+}
+ 
+ .form-reg {
+     padding: 14px 2rem;
+     display: flex;
+     flex-direction: column;
+     align-items: right;
+     background-color: white;
+     margin-right: 100px;
+     padding-right: 10px;
+     padding-top: 25px;
+
+ }
+ 
+.avs{
+       display: flex;
+       justify-content: space-between;
+       margin: 3px;
+       padding: 2px;
+       background-color: powderblue;
+}
+
+.avb{
+    width: 100px;
+    padding-left: 10px;
+    align-items: left;
+
+}
+.text-center{
+    text-align: center;
+}
+
+.cnt{
+
+    background-color: cornflowerblue;
+}
+body{
+
+    background-color: beige;
+}
